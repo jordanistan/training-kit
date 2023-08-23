@@ -32,7 +32,7 @@ GEM
     ffi (1.15.5)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
-    github-pages (224)
+    github-pages (225)
       github-pages-health-check (= 1.17.9)
       jekyll (= 3.9.0)
       jekyll-avatar (= 0.7.0)
@@ -223,7 +223,7 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.19.0)
-    nokogiri (1.15.3)
+    nokogiri (1.15.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     nokogumbo (2.0.2)
@@ -278,7 +278,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (~> 224)
+  github-pages (~> 225)
   html-proofer
   jekyll-octicons
   rack-contrib (~> 1.2.0)
